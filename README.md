@@ -9,4 +9,4 @@ The sections are:
    2. Instron Testing
    3. Sensor Linearity Testing
 
-Specificities on the functioning/purpose of the can be found in the project report.
+Specificities on the functioning/purpose of the code in this repository can be found in the project report.
