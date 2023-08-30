@@ -6,5 +6,7 @@ This repository contains the code for the data processing and analysis stage of 
 The code has been separated into three folders, one for each type of data acquisition method, with all the necessary scripts and functions needed to process and analyse the data from that specific type of test in one place.
 The sections are:
    1. Tap Testing
-   3. Instron Testing
-   4. Sensor Linearity Testing
+   2. Instron Testing
+   3. Sensor Linearity Testing
+
+Specificities on the functioning/purpose of the can be found in the project report.
